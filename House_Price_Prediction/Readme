@@ -28,5 +28,5 @@ Steps followed:
 3] Data Visualization (Scatter plots, Histograms, Correlation Matrix, Data distribution)
 4] Data Munging (encoding of zip code, Logarithmic transformations)
 6] Feature Selection (Recursive feature elimination)
-7] Machine Learning Models (Linear regression, Lasso regression, Ridge regression, Polynomial regression )
+7] Machine Learning Models (Linear regression, Lasso regression, Ridge regression, Polynomial regression)
 
