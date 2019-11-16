@@ -6,7 +6,7 @@ I have carried out the following operations on on various datasets for Kaggle co
 *** Data Cleaning
 *** Data Munging
 *** Feature Selection
-*** Machine Learning models including Linear regression, Polynomialregression,
+*** Machine Learning models including Linear regression, Polynomial regression,
     Logistic regression, Random Forest, Lasso & Ridge regression to avoid overfitting
 *** Compared the performance using various accuracy metrics
 
