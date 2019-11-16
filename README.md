@@ -15,4 +15,5 @@ The folder contains following projects:
 1] House Price Prediction
 2] Credit card Fraud detection
 3] Bank loan Prediction
+4] Diabetes Prediction
 
