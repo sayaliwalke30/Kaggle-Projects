@@ -27,3 +27,9 @@ Current Credit Balance: The current total debt for the customer
 Maximum Open Credit: The maximum credit limit for all credit sources.
 Bankruptcies: The number of bankruptcies
 Tax Liens: The number of tax liens.
+
+Steps Followed:
+1] Data Analysis
+2] Data Cleaning(Delete duplicates etc..)
+3] Data Munging (Outliers, Null values treated with imputing technique)
+4] MAchine learning (Logistic Regression, Lasso & Riege regression, Randome Forest, Boosting, Bagging)
