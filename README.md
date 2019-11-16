@@ -1,5 +1,5 @@
 # Kaggle-Projects
-I have carried out the following operations on on various datasets for Kaggle competitions:
+I have carried out the following operations on various datasets for Kaggle competitions:
 
 
 *** Exploratory Data Analysis
