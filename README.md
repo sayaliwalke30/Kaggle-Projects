@@ -1,7 +1,7 @@
 # Kaggle-Projects
 /**
  *
- * @author Sayali Walke
+ * author Sayali Walke
  */
  
  
