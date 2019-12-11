@@ -1,18 +1,18 @@
 # Kaggle-Projects
 I have carried out the following operations on various datasets for Kaggle competitions:
 
-1] Exploratory Data Analysis
+#### 1] Exploratory Data Analysis- 
 
-2] Data Cleaning
+#### 2] Data Cleaning
 
-3] Data Munging / Transformation
+#### 3] Data Munging / Transformation
 
-4] Feature Selection
+#### 4] Feature Selection
 
-5] Machine Learning models including Linear regression, Polynomial regression,
-    Logistic regression, Random Forest, Lasso & Ridge regression to avoid overfitting
+#### 5] Machine Learning models including Linear regression, Polynomial regression,
+####   Logistic regression, Random Forest, Lasso & Ridge regression to avoid overfitting
     
-6] Compared the performance using various accuracy metrics
+#### 6] Compared the performance using various accuracy metrics
 
 The folder contains following projects:
 
