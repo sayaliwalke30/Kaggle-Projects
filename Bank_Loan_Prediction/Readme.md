@@ -1,4 +1,4 @@
-## Predict whether customer is eligible for loan or not
+## Predict whether customer is eligible for giving loan or not
 Problem Description:
 
 When a customer applies for a loan, banks and other credit providers use statistical models to determine whether or not to grant the loan 
