@@ -4,6 +4,16 @@
 ### author Sayali Walke
 
 ### **/
+
+## This repository contains following projects:
+
+#### 1] House Price Prediction
+
+#### 2] Credit card Fraud detection
+
+#### 3] Bank loan Prediction
+
+4] Diabetes Prediction
  
  
 I have carried out the following operations on various datasets for Kaggle competitions:
@@ -21,13 +31,5 @@ I have carried out the following operations on various datasets for Kaggle compe
     
 #### 6] Compared the performance using various accuracy metrics
 
-The folder contains following projects:
 
-1] House Price Prediction
-
-2] Credit card Fraud detection
-
-3] Bank loan Prediction
-
-4] Diabetes Prediction
 
