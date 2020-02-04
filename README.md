@@ -11,6 +11,7 @@
 ##### This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015 and our task is to build a machine learning model that can predict the house prices.
 
 #### 2] Credit card Fraud detection
+##### It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase. So the goal of this project is to identify 
 
 #### 3] Bank loan Prediction
 
