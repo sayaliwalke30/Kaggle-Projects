@@ -7,7 +7,7 @@
 
 ## This repository contains following projects:
 
-#### 1] House Price Prediction
+#### 1] House Price Prediction: 
 
 #### 2] Credit card Fraud detection
 
@@ -16,9 +16,9 @@
 #### 4] Diabetes Prediction
  
  
-## :
+## : This repository will demostrate following skills
 
-#### 1] Exploratory Data Analysis- 
+#### 1] Exploratory Data Analysis  
 
 #### 2] Data Cleaning
 
