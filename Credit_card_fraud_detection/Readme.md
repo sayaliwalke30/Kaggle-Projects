@@ -13,8 +13,8 @@ Feature 'Class' is the response variable and it takes value 1 in case of fraud a
 
 ## Operations carried out:
 #### 1] Data Analysis (To explore dataset)
-2] Under Sampling (To balance given unbalanced dataset)
-3] Data Cleaning
-4] Data Visualization
-5] MAchine Learning Models: Logistic regression, Logistic regression with various tuning parameters
+#### 2] Under Sampling (To balance given unbalanced dataset)
+#### 3] Data Cleaning
+#### 4] Data Visualization
+#### 5] Machine Learning Models: Logistic regression, Logistic regression with various tuning parameters
 
