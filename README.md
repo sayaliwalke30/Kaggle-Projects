@@ -17,7 +17,7 @@
 ##### When a customer applies for a loan, banks and other credit providers use statistical models to determine whether or not to grant the loan based on the likelihood of the loan being repaid. 
 
 #### 4] Diabetes Prediction (May 2019 - June 2019)
-#####
+##### This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
  
  
 ## This repository will demonstrate following skills
