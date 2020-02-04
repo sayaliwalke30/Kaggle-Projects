@@ -1,3 +1,4 @@
+## Description
 The datasets contains transactions made by credit cards in September 2013 by european cardholders. 
 This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. 
 The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
@@ -10,8 +11,8 @@ The feature 'Amount' is the transaction Amount, this feature can be used for exa
 Feature 'Class' is the response variable and it takes value 1 in case of fraud and 0 otherwise.
 
 
-Steps Followed:
-1] Data Analysis (To explore dataset)
+## Operations carried out:
+#### 1] Data Analysis (To explore dataset)
 2] Under Sampling (To balance given unbalanced dataset)
 3] Data Cleaning
 4] Data Visualization
