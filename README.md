@@ -14,6 +14,7 @@
 ##### It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase. So the goal of this project is to identify fraudulent credit card transactions
 
 #### 3] Bank loan Prediction
+##### When a customer applies for a loan, banks and other credit providers use statistical models to determine whether or not to grant the loan based on the likelihood of the loan being repaid. 
 
 #### 4] Diabetes Prediction
  
