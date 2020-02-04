@@ -17,7 +17,7 @@
 #### 4] Diabetes Prediction
  
  
-## This repository will demostrate following skills
+## This repository will demonstrate following skills
 
 #### 1] Exploratory Data Analysis  
 
