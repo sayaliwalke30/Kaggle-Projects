@@ -8,6 +8,6 @@
 
 ### Steps Followed:
 #### 1] Data Analysis: Performed various operations to get more information about the data
-2] Data Cleaning
+#### 2] Data Cleaning: Performed data cleaning to treat outliers, missing values, null values etc
 3] Data Visulization
 4] Machine Learning
