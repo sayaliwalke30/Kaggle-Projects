@@ -35,9 +35,12 @@ Number of Open Accounts: The total number of open credit cards
 Number of Credit Problems: The number of credit problems in the customer records
 
 Current Credit Balance: The current total debt for the customer
-Maximum Open Credit: The maximum credit limit for all credit sources.
+
+Maximum Open Credit: The maximum credit limit for all credit sources
+
 Bankruptcies: The number of bankruptcies
-Tax Liens: The number of tax liens.
+
+Tax Liens: The number of tax liens
 
 Steps Followed:
 1] Data Analysis
