@@ -1,12 +1,8 @@
 ## Predict whether customer is eligible for giving loan or not
-Problem Description:
+### Problem Description:
+##### When a customer applies for a loan, banks and other credit providers use statistical models to determine whether or not to grant the loan  based on the likelihood of the loan being repaid. The factors involved in determining this likelihood are complex, and extensive statistical analysis and modeling are required to predict the outcome for each individual case.
 
-When a customer applies for a loan, banks and other credit providers use statistical models to determine whether or not to grant the loan 
-based on the likelihood of the loan being repaid. The factors involved in determining this likelihood are complex, and extensive 
-statistical analysis and modeling are required to predict the outcome for each individual case.
-
-We analyze a loan dataset using logistic regression, random forests, and boosting to predict loan repayment or default 
-based on the following features:
+#### I analyzed a loan dataset using logistic regression, random forests, and boosting to predict loan repayment or default based on the following features:
 
 Loan ID: A unique Identifier for the loan information.
 Customer ID: A unique identifier for the customer. Customers may have more than one loan.
