@@ -31,7 +31,7 @@
 #### 4] Feature Selection and Feature Engineering
 
 #### 5] Machine Learning models including Linear regression, Polynomial regression,
-####   Logistic regression, Random Forest, Lasso & Ridge regression to avoid overfitting
+####   Logistic regression, Descision Tree, Random Forest, Lasso & Ridge regression to avoid overfitting
     
 #### 6] Compared the performance using various accuracy metrics
 
