@@ -10,4 +10,4 @@
 #### 1] Data Analysis: Performed various operations to get more information about the data
 #### 2] Data Cleaning: Performed data cleaning to treat outliers, missing values, null values etc
 #### 3] Feature Selection: Performed forward and backward stepwise feature selection methods
-4] Machine Learning
+#### 4] Machine Learning: Developed various machine learning models and obtained accuracy of 83.83%
