@@ -25,10 +25,15 @@ Annual Income: The customer’s annual income
 Purpose: A description of the purpose of the loan.
 
 Monthly Debt: The customer’s monthly payment for their existing loans
+
 Years of Credit History: The years since the first entry in the customerss credit history
+
 Months since last delinquent: Months since the last loan delinquent payment
+
 Number of Open Accounts: The total number of open credit cards
-Number of Credit Problems: The number of credit problems in the customer records.
+
+Number of Credit Problems: The number of credit problems in the customer records
+
 Current Credit Balance: The current total debt for the customer
 Maximum Open Credit: The maximum credit limit for all credit sources.
 Bankruptcies: The number of bankruptcies
