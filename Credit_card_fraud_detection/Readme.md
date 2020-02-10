@@ -15,8 +15,10 @@
 
 ## Operations carried out:
 #### 1] Data Analysis (To explore dataset)
-#### 2] Under Sampling (To balance given unbalanced dataset)
+#### 2] Data Visualization 
 #### 3] Data Cleaning
-#### 4] Data Visualization
-#### 5] Machine Learning Models: Logistic regression, Logistic regression with various tuning parameters
+#### 4] Data Preprocessing (Scaling, Sampling)
+#### 5] Under Sampling (To balance given unbalanced dataset)
+#### 6] Data Visualization
+#### 7] Machine Learning Models: Logistic regression, Logistic regression with various tuning parameters
 
