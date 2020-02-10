@@ -20,5 +20,5 @@
 #### 4] Data Preprocessing (Scaling, Sampling)
 #### 5] Under Sampling (To balance given unbalanced dataset)
 #### 6] Data Visualization
-#### 7] Machine Learning Models: Logistic regression, Logistic regression with various tuning parameters
+#### 7] Machine Learning Models: Logistic regression, Logistic regression with various tuning parameters, Descision Tree Classifier
 
