@@ -22,7 +22,7 @@
  
 ## This repository will demonstrate following skills
 
-#### 1] Exploratory Data Analysis  
+#### 1] Exploratory Data Analysis.  
 
 #### 2] Data Cleaning
 
