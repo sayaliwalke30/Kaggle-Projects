@@ -1,4 +1,4 @@
-# Kaggle-Projects
+# Kaggle Machine Learning Projects
 ### /**
 
 ### author Sayali Walke
