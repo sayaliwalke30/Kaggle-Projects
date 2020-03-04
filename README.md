@@ -33,7 +33,7 @@
 #### 5] Machine Learning models including Linear regression, Polynomial regression,
 ####   Logistic regression, Descision Tree, Random Forest, Lasso & Ridge regression to avoid overfitting
     
-#### 6] Compared the performance using various accuracy metrics
+#### 6] Compared the performance using various accuracy metrics.
 
 
 
