@@ -5,7 +5,7 @@
 
 ### **/
 
-## This repository contains following projects-
+## This repository contains following projects:
 
 #### 1] House Price Prediction (Jan 2019- Feb 2019)
 ##### This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015 and our task is to build a machine learning model that can predict the house prices.
